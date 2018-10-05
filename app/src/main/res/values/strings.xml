@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KisilerUygulamasi</string>
+    <string name="sil">Sil</string>
+    <string name="g_ncelle">Güncelle</string>
+    <string name="todo">TODO</string>
+    <string name="mehmet_05555555555">Mehmet 05555555555</string>
+    <string name="tel">Tel</string>
+    <string name="ad">Ad</string>
+</resources>

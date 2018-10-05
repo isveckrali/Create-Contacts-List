@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/editTextAd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="@string/ad"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:inputType="textPersonName"
+        android:autofillHints="" />
+
+    <EditText
+        android:id="@+id/editTextTel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:ems="10"
+        android:hint="@string/tel"
+        android:inputType="textPersonName"
+        android:autofillHints="" />
+</LinearLayout>
