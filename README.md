@@ -1,4 +1,4 @@
-<h1>Create Contacts List with Java Android</h1>
+<h1>Create Contacts List </h1>
 I have used the <b>Sqlite</b> database to create their own contacts list. Datas can be filtered by search box.
 Can <b>CRUD</b> (create,read,update,delete) operations.
 
