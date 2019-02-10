@@ -1,5 +1,5 @@
 <h1>Create Contacts List </h1>
-I have used the <b>Sqlite</b> database to create one's own contacts list. Datas can be filtered by search box.
+I have used the <b>Sqlite</b> database to create one's own contacts list. Data can be filtered by search box.
 Can perform <b>CRUD</b> (create,read,update,delete) operations.
 
 <h2> Externally used components</h2>
